@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="newnote" />
+    <string name="abouticon" />
+    <string name="android_notes">Android Notes</string>
+    <string name="_2021_elizabeth_paniagua">© 2021, Elizabeth Paniagua</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="save">save</string>
+</resources>
